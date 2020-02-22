@@ -21,7 +21,7 @@ public class UIController : MonoBehaviour
     private void Start()
     {
         distance = 0;
-        highesetDistance = 25;
+        highesetDistance = 50;
 
         gameOverUI.SetActive(false);
         newRecordText.SetActive(false);
