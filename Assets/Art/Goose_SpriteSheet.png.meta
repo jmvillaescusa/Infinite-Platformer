@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: ed24c29923b4a1c40ad8744ef3d27300
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6024943224560775334
+    second: Goose_SpriteSheet_0
+  - first:
+      213: 8226487654686417241
+    second: Goose_SpriteSheet_1
+  - first:
+      213: 4725019954781287147
+    second: Goose_SpriteSheet_2
+  - first:
+      213: -8737571472743886220
+    second: Goose_SpriteSheet_3
+  - first:
+      213: -8174118343867259482
+    second: Goose_SpriteSheet_4
+  - first:
+      213: -2340947211192647802
+    second: Goose_SpriteSheet_5
+  - first:
+      213: 9131525972319054917
+    second: Goose_SpriteSheet_6
+  - first:
+      213: -2823387557422743052
+    second: Goose_SpriteSheet_7
+  - first:
+      213: -2934913505497313498
+    second: Goose_SpriteSheet_8
+  - first:
+      213: 5262657674616127172
+    second: Goose_SpriteSheet_9
+  - first:
+      213: 5747431697450144242
+    second: Goose_SpriteSheet_10
+  - first:
+      213: -513276840918341283
+    second: Goose_SpriteSheet_11
+  - first:
+      213: 5828654469488526852
+    second: Goose_SpriteSheet_12
+  - first:
+      213: 1709500498210033539
+    second: Goose_SpriteSheet_13
+  - first:
+      213: -7858673745360245299
+    second: Goose_SpriteSheet_14
+  - first:
+      213: -6105763720788755403
+    second: Goose_SpriteSheet_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Goose_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 246
+        width: 120
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0b627bdafa00541884f0f7a9f1f0c0
+      internalID: 6024943224560775334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goose_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 246
+        width: 144
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187ca15531c8e0b4fa011b550a5009d2
+      internalID: 8226487654686417241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goose_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 246
+        width: 120
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff81dca22f8851b49b1556f13afc8dda
+      internalID: 4725019954781287147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goose_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 246
+        width: 120
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8d8088c4b1f1b468d73dd94220a7b2
+      internalID: -8737571472743886220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goose_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 246
+        width: 120
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0492560d0f670c3448a8aedce3d1f8da
+      internalID: -8174118343867259482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goose_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 246
+        width: 144
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd226d83060b9ff43951fb3a157d8172
+      internalID: -2340947211192647802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goose_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 246
+        width: 144
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb1fdd249cb7994b8e639cb77d31659
+      internalID: 9131525972319054917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goose_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 246
+        width: 144
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c495290ee95e3448a9c621aa59c57a9
+      internalID: -2823387557422743052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goose_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 66
+        width: 120
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1b5e9e6b2fb8b4f97da8c5784800e1
+      internalID: -2934913505497313498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goose_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 66
+        width: 144
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca9fe159257fb64bb436fbfd485762f
+      internalID: 5262657674616127172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goose_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 66
+        width: 120
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabd7f45b678fed439eb46f36666ee79
+      internalID: 5747431697450144242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goose_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 66
+        width: 120
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e14685c03cea845a18ee8c08f92a7e
+      internalID: -513276840918341283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goose_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 66
+        width: 120
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43d9b19319774b478a9496ca428de9c
+      internalID: 5828654469488526852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goose_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 66
+        width: 144
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a84b3b73a908b40ad1bea0d006346e
+      internalID: 1709500498210033539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goose_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 66
+        width: 145
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a52c3fd4bcaa0446ac7badf3ee89445
+      internalID: -7858673745360245299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goose_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 66
+        width: 144
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88500201c2006d448f28e3afb4b4ced
+      internalID: -6105763720788755403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
