@@ -52,11 +52,11 @@ public class BlockPool : MonoBehaviour
     {
         if (interval > 70)
         {
-            int height = Random.Range(0, 5);
+            int height = Random.Range(0, 4);
             int obstacleHeight = Random.Range(1, 3);
             int objectInt = Random.Range(0, 7);
 
-            if (objectInt >= 3)
+            if (objectInt >= 3 || interval <= 80)
             {
                 GameObject temp = Instantiate(block);
                 temp.transform.parent = blocks;

@@ -13,6 +13,8 @@ public class GooseController : MonoBehaviour
     public float spawnPosX = -7.5f;
     public float spawnPosY = -1.73f;
 
+    private float m_frozenPosX = 0.0f;
+
     public bool m_isRunning = false;
 
     static float m_DEFAULT_SPEED = 3;
@@ -198,7 +200,7 @@ public class GooseController : MonoBehaviour
                 }
             }
 
-            if (transform.position.x >= 0.0f)
+            if (transform.position.x >= m_frozenPosX)
             {
                 m_frozen = true;
                 m_rigidbody.constraints = RigidbodyConstraints2D.FreezePositionX;
@@ -208,6 +210,11 @@ public class GooseController : MonoBehaviour
                 m_rigidbody.constraints = RigidbodyConstraints2D.None;
             }
             m_rigidbody.constraints = RigidbodyConstraints2D.FreezeRotation;
+
+            if (m_frozen == true && transform.position.x < 0)
+            {
+                m_frozenPosX = transform.position.x;
+            }
         }
     }
 
@@ -249,6 +256,7 @@ public class GooseController : MonoBehaviour
         m_animator.speed = 1;
         m_frozen = false;
         m_obstacleCollision = false;
+        m_frozenPosX = 0.0f;
 
         m_animator.SetBool("Walking", true);
         m_animator.SetBool("Running", false);
